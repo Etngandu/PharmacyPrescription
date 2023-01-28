@@ -1,0 +1,80 @@
+﻿@model ENB.PharmaciesAndPrescriptions.MVC.Models.CreateAndEditPrescription
+@using ENB.PharmaciesAndPrescriptions.Entities;
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="alert alert-primary" role="alert">
+    <h2>Create New Prescription customer <strong> @ViewBag.Message</strong></h2>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create" asp-route-CustomerId="@ViewBag.Idcustm">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="PhysicianId" class="control-label card-header col-md-12" style="margin-bottom:5px"></label>
+                        <select id="drpPhysicianList" class="form-control" asp-for="PhysicianId" asp-items="@(new SelectList(Model.ListPhysicians, "Value", "Text"))">
+                            <option value="">--Select--</option>
+                        </select>
+                        <span asp-validation-for="PhysicianId" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Prescription_Status" class="control-label card-header col-md-12" style="margin-bottom:5px"></label>
+                        <select asp-for="Prescription_Status" class="form-control" asp-items="Html.GetEnumSelectList<Ref_Prescription_status>()"></select>
+                        <span asp-validation-for="Prescription_Status" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Payment_Method" class="control-label card-header col-md-12" style="margin:5px 0 5px"></label>
+                        <select asp-for="Payment_Method" class="form-control" asp-items="Html.GetEnumSelectList<Ref_payment_method>()"></select>
+                        <span asp-validation-for="Payment_Method" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Presciption_issue_date" class="control-label card-header col-md-12" style="margin:5px 0 5px"></label>
+                        <input asp-for="Presciption_issue_date" class="form-control" />
+                        <span asp-validation-for="Presciption_issue_date" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Presciption_filled_date" class="control-label card-header col-md-12" style="margin:5px 0 5px"></label>
+                        <input asp-for="Presciption_filled_date" class="form-control" />
+                        <span asp-validation-for="Presciption_filled_date" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Prescription_Other_details" class="control-label card-header col-md-12" style="margin:5px 0 5px"></label>
+                        <textarea asp-for="Prescription_Other_details" type="text" class="form-control" rows="5" autofocus></textarea>
+                        <span asp-validation-for="Prescription_Other_details" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top:25px">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <a asp-action="List" asp-route-CustomerId="@ViewBag.Idcustm"  class="btn btn-secondary btn-block col-md-4">Back to List</a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1cdf5b1-9637-4033-a879-ec728d0bd584": {
+      "ProjectGuid": "c1cdf5b1-9637-4033-a879-ec728d0bd584",
+      "DisplayName": "ENB.PharmaciesAndPrescriptions.Entities",
+      "ColorIndex": 0
+    },
+    "732238c3-a15b-44ff-a887-3ec8bbe3da48": {
+      "ProjectGuid": "732238c3-a15b-44ff-a887-3ec8bbe3da48",
+      "DisplayName": "ENB.PharmaciesAndPrescriptions.Infrastructure",
+      "ColorIndex": 1
+    },
+    "0d90a776-c9d1-4799-86e8-ab3a2cab7d8a": {
+      "ProjectGuid": "0d90a776-c9d1-4799-86e8-ab3a2cab7d8a",
+      "DisplayName": "ENB.PharmaciesAndPrescriptions.EF",
+      "ColorIndex": 2
+    },
+    "957ab697-a455-49e2-98f7-e33697e8fea8": {
+      "ProjectGuid": "957ab697-a455-49e2-98f7-e33697e8fea8",
+      "DisplayName": "ENB.PharmaciesAndPrescriptions.MVC",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,60 @@
+﻿@model ENB.PharmaciesAndPrescriptions.MVC.Models.CreateAndEditPrescriptionItem
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="alert alert-primary" role="alert">
+    <h2>Edit PrescriptionItem customer <strong> @ViewBag.Message</strong></h2>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Edit" asp-route-CustomerId="@ViewBag.Idcustm" asp-route-PrescriptionId="@ViewBag.presId" asp-route-Id="@ViewBag.Id">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Drug_medicationId" class="control-label card-header col-md-12" style="margin-bottom:5px"></label>
+                        <select id="Drug_medicationList" class="form-control" asp-for="Drug_medicationId" asp-items="@(new SelectList(Model.ListDrugs, "Value", "Text"))">
+                            <option value="">--Select--</option>
+                        </select>
+                        <span asp-validation-for="Drug_medicationId" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="prescription_quantity" class="control-label card-header col-md-12" style="margin-bottom:5px"></label>
+                        <input asp-for="prescription_quantity" class="form-control" />
+                        <span asp-validation-for="prescription_quantity" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Instructions_to_customer" class="control-label card-header col-md-12" style="margin:5px 0 5px"></label>
+                        <textarea asp-for="Instructions_to_customer" type="text" class="form-control" rows="5" autofocus></textarea>
+                        <span asp-validation-for="Instructions_to_customer" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top:25px">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <a asp-action="List" asp-route-CustomerId="@ViewBag.Idcustm" asp-route-PrescriptionId="@ViewBag.presId" class="btn btn-secondary btn-block col-md-4">Back to List</a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+

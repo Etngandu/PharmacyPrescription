@@ -1,0 +1,94 @@
+﻿@model ENB.PharmaciesAndPrescriptions.MVC.Models.CreateAndEditDrugAndMedication
+@using ENB.PharmaciesAndPrescriptions.Entities;
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="alert alert-primary" role="alert">
+    <h2><strong>Create New Drug-Medication</strong></h2>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create" asp-route-Drug_companyId="@ViewBag.drgcpId">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Drug_name" class="control-label card-header col-md-12" style="margin-bottom:5px"></label>
+                        <input asp-for="Drug_name" class="form-control" />
+                        <span asp-validation-for="Drug_name" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Drug_cost" class="control-label card-header col-md-12" style="margin-bottom:5px"></label>
+                        <input asp-for="Drug_cost" class="form-control" />
+                        <span asp-validation-for="Drug_cost" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Drug_available_date" class="control-label card-header col-md-12" style="margin:5px 0 5px"></label>
+                        <input asp-for="Drug_available_date" class="form-control" />
+                        <span asp-validation-for="Drug_available_date" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Drug_Withdrawn_date" class="control-label card-header col-md-12" style="margin:5px 0 5px"></label>
+                        <input asp-for="Drug_Withdrawn_date" class="form-control" />
+                        <span asp-validation-for="Drug_Withdrawn_date" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+               
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Drug_generic" class="control-label card-header col-md-12" style="margin:5px 0 5px"></label>
+                        <select asp-for="Drug_generic" class="form-control" asp-items="Html.GetEnumSelectList<Drug_generic>()"></select>
+                        <span asp-validation-for="Drug_generic" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Generic_equivalent_generic_id" class="control-label card-header col-md-12" style="margin:5px 0 5px"></label>
+                        <input asp-for="Generic_equivalent_generic_id" class="form-control" />
+                        <span asp-validation-for="Generic_equivalent_generic_id" class="text-danger"></span>
+                    </div>
+                </div>
+                 <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Drug_description" class="control-label card-header col-md-12" style="margin:5px 0 10px"></label>
+                        <textarea asp-for="Drug_description" type="text" class="form-control" rows="5" autofocus></textarea>
+                        <span asp-validation-for="Drug_description" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Other_drug_details" class="control-label card-header col-md-12" style="margin:5px 0 10px"></label>
+                        <textarea asp-for="Other_drug_details" type="text" class="form-control" rows="5" autofocus></textarea>
+                        <span asp-validation-for="Other_drug_details" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top:25px">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <a asp-action="List" asp-route-Drug_companyId="@ViewBag.IdDrgcp" class="btn btn-secondary btn-block col-md-4">Back to List</a>
+                    </div>
+                </div>
+             </div>
+        </form>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,126 @@
+﻿@using ENB.PharmaciesAndPrescriptions.Entities;
+@model IEnumerable<ENB.PharmaciesAndPrescriptions.MVC.Models.DisplayPrescriptionItem>
+@{
+    ViewData["Title"] = "List";
+
+}
+
+<div class="alert alert-primary" role="alert">
+    <h2>Prescription Items customer : <strong> @ViewBag.Message </strong></h2>
+</div>
+<a asp-action="Create" id="adddrug_medication" asp-controller="PrescriptionItems" asp-route-CustomerId="@ViewBag.Idcustm" asp-route-PrescriptionId="@ViewBag.presId" class="btn btn-success text-white" style="margin-bottom:10px"><i class="fas fa-prescription"></i> New Prescription Item</a>
+<table id="PrescriptionItemsTable" class="table table-striped table-bordered" width="100%">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>drugName</th>
+            <th>Quantity</th>
+            <th>Name Customer</th>
+            <th>Name Physician</th>
+            <th>N° Prescription</th>
+            <th> </th>
+        </tr>
+    </thead>
+</table>
+
+<link href="~/lib/datatable/datatables-1.12.1/css/datatables.bootstrap5.min.css" rel="stylesheet" />
+
+@section scripts{
+    <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="~/lib/datatable/datatables-1.12.1/js/jquery.datatables.min.js"></script>
+    <script src="~/lib/datatable/datatables-1.12.1/js/datatables.bootstrap5.min.js"></script>
+    <script>
+        var Popup, datatable, Idcustm = parseInt('@ViewBag.Idcustm'), IdPres = parseInt('@ViewBag.presId')
+        $(document).ready(function () {
+            datatable = $("#PrescriptionItemsTable").DataTable({
+                "ajax": {
+                    "url": "/PrescriptionItems/GetPrescriptionsItems/?CustomerId=" + Idcustm + "&PrescriptionId=" + IdPres + "",
+                    "type": "GET",
+                    "datatype": "json"
+                },
+                "columns": [
+
+                    { "data": "id" },
+                    {
+                        "data": "drugName",
+                        "width": "150px",
+                        "render": function (data, type, row, meta) {
+                            return '<b><a href="/PrescriptionItems/Details/?id=' + row.id + "&CustomerId=" + Idcustm + "&PrescriptionId=" + IdPres +  '">' + data + '</b></a>';
+                        }
+                    },
+                    { "data": "prescription_quantity"},
+                    { "data": "nameCustomer" },
+                    { "data": "namePhysician" },
+                    { "data": "numberPrescription"},
+                    {
+                        "data": "id", "render": function (data) {
+                            return "<a class= 'btn btn-primary btn-sm text-white' onclick=location.href='@Url.Action("Edit","PrescriptionItems")?id=" + data + "&CustomerId=" + Idcustm + "&PrescriptionId=" + IdPres + "'><i class='fas fa-pencil'></i><b> Edit</b></a>" + "\r\n" +
+                                "<a class= 'btn btn-danger btn-sm text-white' style = 'margin-left:5px' onclick =location.href='@Url.Action("Delete","PrescriptionItems")?id=" + data + "&CustomerId=" + Idcustm + "&PrescriptionId=" + IdPres + "'> <i class='fa-solid fa-trash-can' > </i><b> Delete</b > </a> ";
+                        },
+                        "orderable": false,
+                        "searchable": false,
+                        "width": "150px"
+                    }
+
+                ],
+                "language": {
+
+                    "emptyTable": "No data Found, Please Click On <b>Add New</b> Button"
+                }
+
+            });
+
+        });
+
+
+
+
+        console.log(Idcustm);
+
+
+        //function dateFormatter(data) {
+        //    var dateAsString = data;
+
+        //    var yearNumber = dateAsString.substring(0, 4);
+        //    var monthNumber = dateAsString.substring(5, 7);
+        //    var dayNumber = dateAsString.substring(8, 10);
+        //    var dat = dayNumber + "/" + monthNumber + "/" + yearNumber;
+        //    return dat;
+        //}
+
+        //function RefpaymentMethode(data) {
+        //    var typgen;
+        //    switch (data) {
+        //        case 1:
+        //            typgen = "Filled"
+        //            break;
+        //        case 2:
+        //            typgen = "Part Filled"
+        //            break;
+        //        case 3:
+        //            typgen = "Filled but not collected"
+        //            break;
+        //        default:
+        //        // code block
+        //    }
+        //    return typgen
+        //}
+
+        //function Refprescription_Status(data) {
+        //    var typgen;
+        //    switch (data) {
+        //        case 1:
+        //            typgen = "Cash"
+        //            break;
+        //        case 2:
+        //            typgen = "Credit card"
+        //            break;
+        //        default:
+        //        // code block
+        //    }
+        //    return typgen
+        //}
+
+    </script>
+    }
+

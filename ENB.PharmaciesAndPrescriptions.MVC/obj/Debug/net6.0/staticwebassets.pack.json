@@ -1,0 +1,689 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ENB.PharmaciesAndPrescriptions.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ENB.PharmaciesAndPrescriptions.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\Images\\images.png",
+      "PackagePath": "staticwebassets\\Images\\images.png"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\Images\\imgbin-medical-prescription-computer-icons-pharmacy-pharmaceutical-drug-drug-delivery-3Wcxgpupnip2q08jQFsLz1Z0Z.jpg",
+      "PackagePath": "staticwebassets\\Images\\imgbin-medical-prescription-computer-icons-pharmacy-pharmaceutical-drug-drug-delivery-3Wcxgpupnip2q08jQFsLz1Z0Z.jpg"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\Images\\medical-prescription-pharmacy-pharmacist-prescription-drug-pharmaceutical-drug-png-favpng-3RYxJ0BMh0PNbq6hFf1Rn2DsK.jpg",
+      "PackagePath": "staticwebassets\\Images\\medical-prescription-pharmacy-pharmacist-prescription-drug-pharmaceutical-drug-png-favpng-3RYxJ0BMh0PNbq6hFf1Rn2DsK.jpg"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\Images\\pharmacy.png",
+      "PackagePath": "staticwebassets\\Images\\pharmacy.png"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\Images\\png-clipart-pharmacy-medical-prescription-bowl-of-hygieia-pharmacist-symbol-drug-miscellaneous-angle.png",
+      "PackagePath": "staticwebassets\\Images\\png-clipart-pharmacy-medical-prescription-bowl-of-hygieia-pharmacist-symbol-drug-miscellaneous-angle.png"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bulma.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bulma.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bulma.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.bulma.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bulma.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bulma.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bulma.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.bulma.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\DataTables-1.12.1\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\DataTables-1.12.1\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\css\\datatable-bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable-bootstrap.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\css\\datatable-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\css\\datatable.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\css\\datatable.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\datatables.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\datatables.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\datatables.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\datatables.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\datatables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\datatables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\img\\sort_asc.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\img\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\img\\sort_both.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\img\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\img\\sort_desc.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\img\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\jQuery-3.6.0\\jquery-3.6.0.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\jQuery-3.6.0\\jquery-3.6.0.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\jQuery-3.6.0\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\jQuery-3.6.0\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\js\\datatable.jquery.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.jquery.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\js\\datatable.jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\js\\datatable.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\datatable\\js\\datatable.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Devsource\\ENB.PharmaciesAndPrescriptions\\ENB.PharmaciesAndPrescriptions.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ENB.PharmaciesAndPrescriptions.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ENB.PharmaciesAndPrescriptions.MVC.props",
+      "PackagePath": "build\\ENB.PharmaciesAndPrescriptions.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ENB.PharmaciesAndPrescriptions.MVC.props",
+      "PackagePath": "buildMultiTargeting\\ENB.PharmaciesAndPrescriptions.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ENB.PharmaciesAndPrescriptions.MVC.props",
+      "PackagePath": "buildTransitive\\ENB.PharmaciesAndPrescriptions.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

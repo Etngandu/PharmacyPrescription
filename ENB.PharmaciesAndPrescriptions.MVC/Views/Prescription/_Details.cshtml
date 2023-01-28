@@ -1,0 +1,61 @@
+﻿@model ENB.PharmaciesAndPrescriptions.MVC.Models.DisplayPrescription
+
+<div>    
+    <dl class="row">   
+        <dt class="col-sm-2 card-header">
+            @Html.DisplayNameFor(model => model.PrescriptionNumber)
+        </dt>
+        <dd class="col-sm-10 card-header">
+            @Html.DisplayFor(model => model.PrescriptionNumber)
+        </dd>
+        <dt class="col-sm-2 card-header" style="margin-top:5px">
+            @Html.DisplayNameFor(model => model.Prescription_Status)
+        </dt>
+        <dd class="col-sm-10 card-header" style="margin-top:5px">
+            @Html.DisplayFor(model => model.Prescription_Status)
+        </dd>
+        <dt class="col-sm-2 card-header" style="margin-top:5px">
+            @Html.DisplayNameFor(model => model.Payment_Method)
+        </dt>
+        <dd class="col-sm-10 card-header" style="margin-top:5px">
+            @Html.DisplayFor(model => model.Payment_Method)
+        </dd>
+        <dt class="col-sm-2 card-header" style="margin-top:5px">
+            @Html.DisplayNameFor(model => model.Presciption_issue_date)
+        </dt>
+        <dd class="col-sm-10 card-header" style="margin-top:5px">
+            @Html.DisplayFor(model => model.Presciption_issue_date)
+        </dd>
+        <dt class="col-sm-2 card-header" style="margin-top:5px">
+            @Html.DisplayNameFor(model => model.Presciption_filled_date)
+        </dt>
+        <dd class="col-sm-10 card-header" style="margin-top:5px">
+            @Html.DisplayFor(model => model.Presciption_filled_date)
+        </dd>
+        <dt class="col-sm-2 card-header" style="margin-top:5px">
+            @Html.DisplayNameFor(model => model.DateCreated)
+        </dt>
+        <dd class="col-sm-10 card-header" style="margin-top:5px">
+            @Html.DisplayFor(model => model.DateCreated)
+        </dd>
+        <dt class="col-sm-2 card-header" style="margin-top:5px">
+            @Html.DisplayNameFor(model => model.DateModified)
+        </dt>
+        <dd class="col-sm-10 card-header" style="margin-top:5px">
+            @Html.DisplayFor(model => model.DateModified)
+        </dd>
+        <dt class="col-sm-2 card-header" style="margin-top:5px">
+            @Html.DisplayNameFor(model => model.PhysicianName)
+        </dt>
+        <dd class="col-sm-10 card-header" style="margin-top:5px">
+            @Html.DisplayFor(model => model.PhysicianName)
+        </dd>
+        <dt class="col-sm-2 card-header" style="margin-top:5px">
+            @Html.DisplayNameFor(model => model.CustomerName)
+        </dt>
+        <dd class="col-sm-10 card-header" style="margin-top:5px">
+            @Html.DisplayFor(model => model.CustomerName)
+        </dd>
+    </dl>
+</div>
+

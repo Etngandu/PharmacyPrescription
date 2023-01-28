@@ -1,0 +1,30 @@
+﻿@using ENB.PharmaciesAndPrescriptions.Entities;
+@model ENB.PharmaciesAndPrescriptions.MVC.Models.DisplayPrescriptionItem;
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="alert alert-primary" role="alert">
+    <h2>Details PrescriptionItem Drug:<strong> @ViewBag.Message</strong></h2>
+</div>
+
+<div id="view-all">
+    @await Html.PartialAsync("_Details", Model)
+</div>
+
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }
+<div class="row">
+    <div class="col-md-6">
+        <a asp-action="Edit" asp-controller="PrescriptionItems" asp-route-CustomerId="@ViewBag.Idcustm" asp-route-PrescriptionId="@ViewBag.presId" asp-route-id="@ViewBag.Id" class="btn btn-info btn-block col-md-2">Edit</a>
+    </div>
+    <div class="col-md-6">
+        <a asp-action="List" asp-route-CustomerId="@ViewBag.Idcustm" asp-route-PrescriptionId="@ViewBag.presId" class="btn btn-secondary btn-block col-md-5">Back to List</a>
+    </div>
+</div>
+
+
